@@ -1,0 +1,7 @@
+{
+  "name": "commitIncorrecto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
